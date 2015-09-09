@@ -1,0 +1,1 @@
+c:\users\felipe\documents\visual studio 2013\Projects\DDD\DDD.Infra\obj\Debug\DDD.Infra.csprojResolveAssemblyReference.cache
